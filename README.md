@@ -37,11 +37,8 @@ This repository is organized as follows:
 ### 📂 `/Data/`
 * **Description:** Contains all data files used and generated during the project.
     * #### 📂 `/Data/Raw_Data/`
-        * ##### 📄 `DCF_Tracker_Raw.xlsx`
-            * **Description:** The original, uncleaned dataset provided at the start of the module. This Excel file contains simulated Data Clarification Form (DCF) entries with inconsistencies, errors, and missing values that participants need to address in Phase 1.
-    * #### 📂 `/Data/Cleaned_Data/`
-        * ##### 📄 `DCF_Tracker_Cleaned.xlsx`
-            * **Description:** The processed dataset after completing the data cleaning and preparation steps (Phase 1) in Excel. This version includes standardized reason categories, calculated Turnaround Times (TAT) in days, an 'Error Phase' column, and is ready for import into Power BI for analysis.
+        * ##### 📄 `DCF_Tracker.xlsx`
+            * **Description:** The original, dataset provided at the start of the module. This Excel file contains simulated Data Clarification Form (DCF) entries with inconsistencies, errors, and missing values that participants need to address in Phase 1.
 
 ### 📂 `/Power_BI_Analysis/`
 * **Description:** Houses the Power BI file and potentially related visual assets.
