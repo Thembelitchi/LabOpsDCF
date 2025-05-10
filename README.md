@@ -52,6 +52,8 @@ This repository is organized as follows:
         * ##### 🖼️ `Study_Performance_Analysis.png`
         * ##### 🖼️ `Lab_Performance_Analysis.png`
         * ##### 🖼️ `TAT_Analysis.png`
+        * ##### 🖼️ `Root_Causes.png`
+      
             * **Description:** (Optional) This sub-folder contains screenshots of key visuals or dashboard pages from the Power BI report. These can be useful for a quick preview of the analysis outcomes without opening the `.pbix` file or for inclusion in other documents.
 
 ### 📂 `/Final_Report_and_Recommendations/`
